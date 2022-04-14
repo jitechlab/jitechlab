@@ -1,0 +1,21 @@
+Theme color (At least 2 colors then at most 3 color)
+Primary grey- #212121
+light grey - #484848
+black - #000000
+
+
+
+
+You should have a  template layout
+
+
+Gather resources - images, videos
+Contents 
+
+SETTING UP OUT PROJECT (folders, files, Fonts and icons)
+use at least 2 fonts styles or 3 at most 
+
+===================
+Project-X-JitechLab
+===================
+
