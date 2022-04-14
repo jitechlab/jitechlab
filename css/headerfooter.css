@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+/* HEADER-SECTION 1 */
+.header-1{
+    background-color:#000000 ;
+    padding: 5px;
+    
+}
+.icon{
+    /* border: solid red; */
+    padding: 10px;
+    float: right;
+    margin-top: 10px;
+   
+
+ 
+}
+.icon i{
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.icon i:hover{
+    color:#484848
+}
+/* ================= */
